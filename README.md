@@ -1,5 +1,5 @@
 #Poptop
-Poptop is an APP writen in Scrapy-python and Pyside for extract the questions you like from <a href='stackoverflow.com'>stackoverflow</a>
+Poptop is an APP writen in Scrapy-python and Pyside for extract the questions you like from <a href='http://stackoverflow.com/'>stackoverflow</a>
 and cnver to PDF.
 
 ###For now this APP is contain the following futures :
