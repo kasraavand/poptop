@@ -5,4 +5,9 @@ and cnver to PDF.
 ###For now this APP is contain the following futures :
 
 -extract the top voted questions from a given tag and date! 
- 
+
+###The requirements : 
+-Python 2.7
+-Scrapy 0.24.4
+-PyQt4
+-Twisted >13.0.0 
