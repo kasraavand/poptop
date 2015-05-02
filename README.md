@@ -1,13 +1,16 @@
 #Poptop
-Poptop is an APP writen in Scrapy-python and Pyside for extract the questions you like from <a href='http://stackoverflow.com/'>stackoverflow</a>
-and cnver to PDF.
 
-###For now this APP is contain the following futures :
+Poptop is an APP writen in Scrapy-python and Pyside for extracting and orgnaizing the <a href='http://stackoverflow.com/'>stackoverflow</a>'s questions
+in any way you like,and convert to PDF.
 
--extract the top voted questions from a given tag and date! 
+### For now this APP contains the following futures :
 
-###The requirements : 
--Python 2.7
--Scrapy 0.24.4
--PyQt4
--Twisted >13.0.0 
+-Extract the top voted questions from a given tag and date.
+-Convert the extracted questiosn to PDF. 
+
+###The requirements :
+ 
+<li>Python 2.7</li>
+<li>Scrapy 0.24.4</li>
+<li>PyQt4</li>
+<li>Twisted >13.0.0</li> 
