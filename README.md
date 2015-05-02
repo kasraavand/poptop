@@ -5,8 +5,8 @@ in any way you like,and convert to PDF.
 
 ### For now this APP contains the following futures :
 
--Extract the top voted questions from a given tag and date.
--Convert the extracted questiosn to PDF. 
+<li>Extract the top voted questions from a given tag and date.</li>
+<li>Convert the extracted questiosn to PDF.</li> 
 
 ###The requirements :
  
